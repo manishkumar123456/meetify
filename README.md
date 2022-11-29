@@ -3,6 +3,7 @@
 Project Link : https://meetify-a0446.firebaseapp.com/
 
 Tech Stack
+
 Reactjs
 Nodejs
 Mongodb
@@ -21,3 +22,4 @@ Multi Language Web Pages using Google Translate API
  images
  
  file:///C:/Users/MANISH/Pictures/meetify.pdf
+[meetify.pdf](https://github.com/manishkumar123456/meetify/files/10115171/meetify.pdf)
