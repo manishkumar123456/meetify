@@ -21,5 +21,3 @@ Multi Language Web Pages using Google Translate API
 
  images
  
- ssssss
-[meetify.pdf](https://github.com/manishkumar123456/meetify/files/10115171/meetify.pdf)
